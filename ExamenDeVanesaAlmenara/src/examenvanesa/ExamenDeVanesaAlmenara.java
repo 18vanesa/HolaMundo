@@ -6,7 +6,7 @@ public class ExamenDeVanesaAlmenara {
 		System.out.println("La fecha de hoy es: 19/04/2018");
 		
 	//ejercicio 2 realizado
-		
+	//ejercicio3 realizado	
 	}
 
 }
